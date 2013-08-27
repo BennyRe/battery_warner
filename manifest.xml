@@ -1,0 +1,16 @@
+<package>
+  <description brief="battery_warner">
+
+     battery_warner
+
+  </description>
+  <author>Benny</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/battery_warner</url>
+  <depend package="rospy"/>
+  <depend package="p2os_driver"/>
+
+</package>
+
+
